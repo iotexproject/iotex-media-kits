@@ -1,7 +1,8 @@
 # IoTeX Media Kit and Branding Assets
 
-Download all media kits: 
-https://github.com/iotexproject/iotex-media-kits/archive/refs/tags/release.zip
+Download this media kits as zip file:
+
+https://github.com/iotexproject/iotex-media-kits/archive/refs/heads/main.zip
 
 
 ![iotex-logo](https://user-images.githubusercontent.com/38968374/149882910-a33f5374-4dea-4166-8f2e-86afb8b90b41.png)
